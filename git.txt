@@ -1,0 +1,31 @@
+git clone (link) first time only
+
+
+git pull origin  (branch)
+
+
+git add .
+git commet -m 'name'
+git push origin (branch)
+
+
+to remove:
+
+git rm -r --cashed «”„ «·›Ê·œ—
+git commit -m 'remove folder'
+git push origin master
+remove the file from folder
+
+
+git status    :34an a4of lw feh ubtades 
+
+
+git log
+git checkout
+
+git branch
+git checkout 'esm el branch'    :to switch to the branch
+git checkout -b 'esm'           ; to create a branch
+
+git branch -a
+git checkout -b 'esm el branch' 'address' 
